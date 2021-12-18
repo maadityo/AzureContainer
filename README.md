@@ -12,3 +12,5 @@ Azure services yang digunakan :
 # Pre-req 
 1. [Visual studio code](https://code.visualstudio.com/) 
 2. Mengaktifasi [Azure credit $200](https://azure.microsoft.com/en-us/free/) 
+
+Start Demo 
